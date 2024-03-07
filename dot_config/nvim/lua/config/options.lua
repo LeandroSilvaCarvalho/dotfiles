@@ -10,3 +10,6 @@ vim.opt.list = true -- Show space, line breaks, spaces, tabs...
 vim.opt.confirm = true -- Confirm before closing an unsaved buffer
 vim.opt.cursorline = true -- Highlight current line
 vim.opt.relativenumber = false -- Disable relative numbers on lines
+vim.opt.listchars:append("eol:↴") -- Set the sign for the EOL
+vim.opt.wrap = false -- Long lines are not wrapped
+vim.opt.signcolumn = "yes" --
