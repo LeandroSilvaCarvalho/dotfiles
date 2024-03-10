@@ -1,6 +1,6 @@
 return {
   "nvim-treesitter/nvim-treesitter",
-  commit = "0da349ed303bea955942f409d29059cdb89dbe2c",
+  tag = "v0.9.2",
   dependencies = {
     { "windwp/nvim-ts-autotag", commit = "8515e48a277a2f4947d91004d9aa92c29fdc5e18" },
   },
@@ -30,6 +30,7 @@ return {
     },
     highlight = {
       enable = true,
+      additional_vim_regex_highlighting = false,
     },
     autotag = {
       enable = true,

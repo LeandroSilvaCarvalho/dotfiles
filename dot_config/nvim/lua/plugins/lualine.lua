@@ -42,5 +42,5 @@ return {
       tabline = {},
       extensions = {},
     })
-  end
+  end,
 }
