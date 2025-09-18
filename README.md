@@ -25,12 +25,12 @@ This repository contains my personal configurations, managed with [chezmoi](http
 
 1. **Add a file or folder to chezmoi**  
    ```bash
-   brew install chezmoi
+   chezmoi add <file or folder>
    ```
 
 2. **Check for changes**
    ```bash
-   chezmoi init LeandroSilvaCarvalho
+   chezmoi diff
    ```
 
 3. **Apply changes (if necessary)**
