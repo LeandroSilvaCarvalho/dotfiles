@@ -1,0 +1,15 @@
+pane	apptweak	1	0	:-	1	nvim	:/Users/leandro/code/apptweak/webapp	1	nvim	:nvim
+pane	apptweak	2	1	:*	1	webapp | overmind	:/Users/leandro/code/apptweak/webapp	1	overmind	:overmind s
+pane	apptweak	3	0	:	1	nvim /Users/leandro/Library/Application Support/apptweak-chirp/config.yml	:/Users/leandro/code/apptweak/webapp	1	zsh	:
+pane	pf	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	1	zsh	:
+pane	pf	1	1	:*	2	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	0	zsh	:
+pane	pf	2	0	:-	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/main-api	:/Users/leandro/Private/partyfinder/main-api	1	zsh	:
+pane	pf	2	0	:-	2	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/main-api	:/Users/leandro/Private/partyfinder/main-api	0	zsh	:
+pane	pf	3	0	:	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	1	zsh	:
+window	apptweak	1	:Editor	0	:-	d042,178x48,0,0,5	off
+window	apptweak	2	:Bundler	1	:*	d043,178x48,0,0,6	off
+window	apptweak	3	:Terminal	0	:	d044,178x48,0,0,7	off
+window	pf	1	:Website	1	:*	c498,178x48,0,0[178x34,0,0,8,178x13,0,35,9]	off
+window	pf	2	:Api	0	:-	efc5,178x48,0,0[178x33,0,0,10,178x14,0,34,11]	off
+window	pf	3	:Terminal	0	:	6851,178x48,0,0,12	off
+state	apptweak	

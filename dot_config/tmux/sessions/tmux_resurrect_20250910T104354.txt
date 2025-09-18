@@ -1,0 +1,23 @@
+pane	3	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~	:/Users/leandro	1	zsh	:
+pane	4	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~	:/Users/leandro	1	zsh	:
+pane	5	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~/.config/kitty	:/Users/leandro/.config/kitty	1	zsh	:
+pane	6	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~	:/Users/leandro	1	zsh	:
+pane	apptweak	1	1	:*	1	nvim	:/Users/leandro/code/apptweak/webapp	1	nvim	:nvim
+pane	apptweak	2	0	:-	1	leandro@MacBook-Pro-de-Leandro-2:~/code/apptweak/webapp	:/Users/leandro/code/apptweak/webapp	1	zsh	:
+pane	apptweak	3	0	:	1	leandro@MacBook-Pro-de-Leandro-2:~/code/apptweak/webapp	:/Users/leandro/code/apptweak/webapp	1	zsh	:
+pane	pf	1	0	:-	1	nvim	:/Users/leandro/Private/partyfinder/website	1	nvim	:nvim
+pane	pf	1	0	:-	2	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	0	zsh	:
+pane	pf	2	1	:*	1	nvim	:/Users/leandro/Private/partyfinder/main-api	0	nvim	:nvim
+pane	pf	2	1	:*	2	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/main-api	:/Users/leandro/Private/partyfinder/main-api	1	zsh	:
+pane	pf	3	0	:	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	1	zsh	:
+window	3	1	:zsh	1	:*	c35e,299x73,0,0,1	:
+window	4	1	:zsh	1	:*	c35f,299x73,0,0,2	:
+window	5	1	:zsh	1	:*	56b0,101x50,0,0,11	:
+window	6	1	:zsh	1	:*	59d1,119x22,0,0,12	:
+window	apptweak	1	:Editor	1	:*	c6a0,79x28,0,0,3	off
+window	apptweak	2	:Bundler	0	:-	b681,313x90,0,0,4	off
+window	apptweak	3	:Terminal	0	:	b682,313x90,0,0,5	off
+window	pf	1	:Website	0	:-	c51d,313x90,0,0[313x56,0,0,6,313x33,0,57,7]	off
+window	pf	2	:Api	1	:*	c522,313x90,0,0[313x56,0,0,8,313x33,0,57,9]	off
+window	pf	3	:Terminal	0	:	61df,299x73,0,0,10	off
+state	apptweak	

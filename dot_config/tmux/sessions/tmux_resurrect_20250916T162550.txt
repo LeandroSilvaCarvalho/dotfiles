@@ -1,0 +1,23 @@
+pane	3	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~	:/Users/leandro	1	zsh	:
+pane	4	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~	:/Users/leandro	1	zsh	:
+pane	5	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~/.config/kitty	:/Users/leandro/.config/kitty	1	zsh	:
+pane	6	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~	:/Users/leandro	1	zsh	:
+pane	apptweak	1	0	:-	1	nvim	:/Users/leandro/code/apptweak/webapp	1	nvim	:nvim
+pane	apptweak	2	1	:*	1	webapp | overmind	:/Users/leandro/code/apptweak/webapp	1	overmind	:overmind s
+pane	apptweak	3	0	:	1	nvim /Users/leandro/Library/Application Support/apptweak-chirp/config.yml	:/Users/leandro/code/apptweak/webapp	1	zsh	:
+pane	pf	1	1	:*	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	1	zsh	:
+pane	pf	1	1	:*	2	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	0	zsh	:
+pane	pf	2	0	:-	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/main-api	:/Users/leandro/Private/partyfinder/main-api	0	zsh	:
+pane	pf	2	0	:-	2	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/main-api	:/Users/leandro/Private/partyfinder/main-api	1	zsh	:
+pane	pf	3	0	:	1	leandro@MacBook-Pro-de-Leandro-2:~/Private/partyfinder/website	:/Users/leandro/Private/partyfinder/website	1	zsh	:
+window	3	1	:zsh	1	:*	bdde,254x44,0,0,1	:
+window	4	1	:zsh	1	:*	bddf,254x44,0,0,2	:
+window	5	1	:zsh	1	:*	bde0,254x44,0,0,3	:
+window	6	1	:zsh	1	:*	bde1,254x44,0,0,4	:
+window	apptweak	1	:Editor	0	:-	bde2,254x44,0,0,5	off
+window	apptweak	2	:Bundler	1	:*	bde3,254x44,0,0,6	off
+window	apptweak	3	:Terminal	0	:	bde4,254x44,0,0,7	off
+window	pf	1	:Website	1	:*	d53b,254x44,0,0[254x32,0,0,8,254x11,0,33,9]	off
+window	pf	2	:Api	0	:-	a348,254x44,0,0[254x31,0,0,10,254x12,0,32,11]	off
+window	pf	3	:Terminal	0	:	5f21,254x44,0,0,12	off
+state	apptweak	
