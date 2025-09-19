@@ -42,13 +42,11 @@
 # resize-overlay-duration = 4s 200ms
 
 
-# cursor-color="#272A23"
 font-size=16
 macos-titlebar-style="tabs"
 mouse-hide-while-typing=true
 macos-option-as-alt=true
-# theme=GruvboxLight
-# theme=catppuccin-mocha
 font-family = "JetBrains Mono"
+macos-titlebar-style = hidden
 
 config-file = ./themes/catppuccin

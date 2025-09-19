@@ -127,6 +127,9 @@ export CPPFLAGS="-I/opt/homebrew/opt/openssl@1.1/include"
 
 export PATH="/opt/homebrew/opt/openssl@1.1/bin:$PATH"
 
+# vi mode
+set -o vi
+
 
 # aliases
 alias ll="eza --long --icons"
