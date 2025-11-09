@@ -1,0 +1,35 @@
+return {
+  "nvim-treesitter/nvim-treesitter",
+  main = "nvim-treesitter.configs",
+  opts = {
+    auto_install = true,
+    ensure_installed = {
+      "lua",
+      "javascript",
+      "typescript",
+      "css",
+      "html",
+      "elixir",
+      "php",
+      "go",
+      "gleam",
+      "rust",
+      "jsdoc",
+      "json",
+      "markdown",
+      "sql",
+      "toml",
+      "yaml",
+      "tsx",
+      "vue",
+      "svelte",
+      "zig",
+    },
+    highlight = {
+      enable = true,
+    },
+    indent = {
+      enable = true,
+    },
+  },
+}
